@@ -1,16 +1,23 @@
 # halalpedia
 
-store
+Example store, next futures payment gateway
 
-## Getting Started
+Database --> Firebase
+Technology and Programming language --> Android Studio and framework flutter 
 
-This project is a starting point for a Flutter application.
+<----------------------------------------------------------------------------->
 
-A few resources to get you started if this is your first Flutter project:
+# How to get source & to install source and apps 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. open in terminal.
+2. write in terminal " git clone https://github.com/jsheart2/halalpediia/ ".
+3. extract in drive d or create new folder and extract to drive D or new folder.
+4. open android studio.
+5. open file halalpedia.
+6. waiting file complite.
+7. open in wifi adapter in android studio.
+8. same ip ( internet protocol ) phone, port phone and android studio.
+9. connect your phone to android studio.
+10. run apps with your android or android simulator in android studio.
+11. apply security mobile apps for the install apps in mobile.
+12. successfuly
